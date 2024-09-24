@@ -12,7 +12,7 @@ using termux, which reloads whenever the file is changed
 
 ### Test
     pkg install git
-    git clone https://github.com/brunodavi/termux-live-server.git
+    git clone https://github.com/Idontknowbro9194/termux-live-server.git
     cd termux-live-server/localhost/
 
 
